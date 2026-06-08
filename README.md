@@ -51,7 +51,7 @@ The original variables include:
 - GitHub project structure
 
 ## Project Structure
-
+```text
 ai-student-impact-analysis/
 │
 ├── data/
@@ -83,6 +83,7 @@ ai-student-impact-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Key Findings
 
