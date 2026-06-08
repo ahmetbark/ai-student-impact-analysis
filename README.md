@@ -52,7 +52,6 @@ The original variables include:
 
 ## Project Structure
 
-```text
 ai-student-impact-analysis/
 │
 ├── data/
