@@ -1,0 +1,6 @@
+AI_Hours_Group,students,avg_ai_hours,avg_traditional_hours,avg_total_study_hours,avg_ai_study_ratio_percent,avg_gpa_change,avg_skill_retention,avg_dependency,avg_anxiety,high_burnout_rate_percent
+0-2h,10683,0.951,11.892,12.843,9.2,0.188,75.613,2.45,3.809,8.9
+2-5h,11884,3.412,11.722,15.135,25.9,0.201,76.296,2.781,3.882,11.9
+5-10h,12182,7.255,11.379,18.634,42.1,0.227,77.089,3.295,4.067,18.9
+10-15h,6709,12.241,10.787,23.029,55.8,0.227,76.826,4.023,4.714,34.1
+15h+,8542,23.433,9.73,33.164,71.1,0.173,72.688,5.726,5.331,64.8

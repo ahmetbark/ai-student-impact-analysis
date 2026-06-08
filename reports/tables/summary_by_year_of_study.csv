@@ -1,0 +1,6 @@
+Year_of_Study,students,avg_ai_hours,avg_traditional_hours,avg_total_study_hours,avg_ai_study_ratio_percent,avg_gpa_change,avg_skill_retention,avg_dependency,avg_anxiety,high_burnout_rate_percent
+Freshman,11031,8.447,11.197,19.644,38.2,0.132,74.658,3.495,4.28,18.0
+Sophomore,9860,8.446,11.187,19.633,38.1,0.177,74.812,3.537,4.298,22.0
+Junior,11045,8.376,11.246,19.622,37.7,0.226,74.77,3.504,4.263,24.3
+Senior,10634,8.459,11.21,19.669,38.1,0.243,77.768,3.492,4.272,27.4
+Graduate,7430,8.406,11.202,19.608,38.0,0.252,77.508,3.501,4.231,36.7

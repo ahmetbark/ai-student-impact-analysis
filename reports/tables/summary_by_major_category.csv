@@ -1,0 +1,6 @@
+Major_Category,students,avg_ai_hours,avg_traditional_hours,avg_total_study_hours,avg_ai_study_ratio_percent,avg_gpa_change,avg_skill_retention,avg_dependency,avg_anxiety,high_burnout_rate_percent
+STEM,15059,10.489,11.005,21.493,42.8,0.217,76.8,3.794,4.429,30.0
+Medical,6476,7.547,11.365,18.912,35.9,0.201,75.485,3.4,4.228,23.2
+Humanities,9994,6.77,11.337,18.107,34.0,0.198,75.254,3.244,4.142,20.7
+Arts,5933,7.272,11.352,18.624,35.3,0.197,75.661,3.363,4.174,22.7
+Business,12538,8.276,11.205,19.481,37.9,0.194,75.256,3.489,4.251,24.3

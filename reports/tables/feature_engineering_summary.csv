@@ -1,0 +1,10 @@
+New_Feature,Formula_or_Logic,Purpose
+GPA_Change,Post_Semester_GPA - Pre_Semester_GPA,Measures academic improvement during the semester
+GPA_Change_Category,"Improved if GPA_Change > 0.05, Declined if < -0.05, otherwise Stable",Makes GPA change easier to interpret categorically
+Total_Study_Hours,Weekly_GenAI_Hours + Traditional_Study_Hours,Measures total weekly academic work time
+AI_Study_Ratio,Weekly_GenAI_Hours / Total_Study_Hours,Measures the share of study time spent using AI
+AI_Study_Ratio_Percent,AI_Study_Ratio * 100,Provides a percentage version of AI study ratio
+AI_Hours_Group,"Weekly_GenAI_Hours grouped into 0-2h, 2-5h, 5-10h, 10-15h, 15h+",Segments students by weekly GenAI usage intensity
+AI_Usage_Intensity,"Weekly_GenAI_Hours classified as Very Low, Low, Moderate, Very High",Creates a simpler AI intensity label for reporting
+Traditional_Study_Group,"Traditional_Study_Hours grouped into 0-5h, 5-10h, 10-15h, 15-20h, 20h+",Segments students by traditional study time
+Study_Profile,"AI_Study_Ratio classified as Mostly Traditional, Balanced, or AI-Heavy","Identifies whether a student's study pattern is traditional, balanced, or AI-heavy"

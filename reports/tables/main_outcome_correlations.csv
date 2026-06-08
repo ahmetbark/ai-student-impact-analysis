@@ -1,0 +1,13 @@
+,GPA_Change,Skill_Retention_Score,Perceived_AI_Dependency,Anxiety_Level_During_Exams
+GPA_Change,1.0,0.196,-0.039,-0.04
+Traditional_Study_Hours,0.376,0.148,-0.103,-0.041
+Post_Semester_GPA,0.277,0.17,-0.014,-0.016
+Skill_Retention_Score,0.196,1.0,-0.084,-0.042
+Total_Study_Hours,0.172,-0.024,0.551,0.223
+Tool_Diversity,0.081,0.197,0.006,0.003
+Perceived_AI_Dependency,-0.039,-0.084,1.0,0.308
+Anxiety_Level_During_Exams,-0.04,-0.042,0.308,1.0
+Weekly_GenAI_Hours,-0.046,-0.118,0.665,0.269
+Pre_Semester_GPA,-0.104,0.099,0.001,-0.001
+AI_Study_Ratio_Percent,-0.158,-0.11,0.53,0.215
+AI_Study_Ratio,-0.158,-0.11,0.53,0.215

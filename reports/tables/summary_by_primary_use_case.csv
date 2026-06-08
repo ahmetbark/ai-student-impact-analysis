@@ -1,0 +1,6 @@
+Primary_Use_Case,students,avg_ai_hours,avg_traditional_hours,avg_total_study_hours,avg_ai_study_ratio_percent,avg_gpa_change,avg_skill_retention,avg_dependency,avg_anxiety,high_burnout_rate_percent
+Debugging/Troubleshooting,12295,9.401,11.124,20.525,40.2,0.249,78.069,3.645,4.334,27.3
+Copywriting/Drafting,12011,7.628,11.313,18.941,36.1,0.2,75.231,3.389,4.199,23.0
+Ideation,10721,8.398,11.142,19.54,38.2,0.2,75.52,3.499,4.267,24.4
+Summarizing_Reading,8633,8.17,11.263,19.434,37.4,0.197,75.225,3.488,4.273,24.0
+Direct_Answer_Generation,6340,8.456,11.217,19.673,37.9,0.133,73.719,3.491,4.286,26.6

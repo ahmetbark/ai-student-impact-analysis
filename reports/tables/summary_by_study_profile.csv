@@ -1,0 +1,4 @@
+Study_Profile,students,avg_traditional_hours,avg_ai_hours,avg_total_study_hours,avg_ai_study_ratio_percent,avg_gpa_change,avg_skill_retention,avg_dependency,avg_anxiety,high_burnout_rate_percent
+Mostly Traditional,17980,13.586,1.994,15.58,12.4,0.218,76.449,2.589,3.839,9.6
+Balanced,16151,11.979,7.169,19.148,37.0,0.228,77.092,3.306,4.136,19.4
+AI-Heavy,15869,7.733,16.999,24.732,68.1,0.162,73.744,4.747,4.897,48.0

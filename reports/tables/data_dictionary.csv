@@ -1,0 +1,17 @@
+Column,Meaning,Variable_Group,Data_Type,Use_In_Analysis
+Student_ID,Unique student identifier,ID,Identifier,"No, only used to check uniqueness"
+Major_Category,Student's academic field or major category,Student Background,Categorical,Yes
+Year_of_Study,Student's year of study,Student Background,Categorical,Yes
+Pre_Semester_GPA,GPA before the semester,Student Background,Numerical,Yes
+Weekly_GenAI_Hours,Weekly hours spent using Generative AI tools,AI Usage Behavior,Numerical,Yes
+Primary_Use_Case,Main purpose for using Generative AI,AI Usage Behavior,Categorical,Yes
+Prompt_Engineering_Skill,Self-reported prompt engineering skill level,AI Usage Behavior,Categorical,Yes
+Tool_Diversity,Number of different AI tools used,AI Usage Behavior,Numerical / Discrete,Yes
+Paid_Subscription,Whether the student has a paid AI subscription,AI Usage Behavior,Boolean,Yes
+Traditional_Study_Hours,Weekly hours spent on traditional study methods,Study Habits,Numerical,Yes
+Perceived_AI_Dependency,Self-reported perceived dependency on AI,AI Usage Behavior,Ordinal / Numerical,Yes
+Institutional_Policy,Institutional policy toward AI usage,Institutional Context,Categorical,Yes
+Anxiety_Level_During_Exams,Exam anxiety level reported by the student,Outcome,Ordinal / Numerical,Yes
+Post_Semester_GPA,GPA after the semester,Outcome,Numerical,Yes
+Skill_Retention_Score,Score representing how well the student retained learned skills,Outcome,Numerical,Yes
+Burnout_Risk_Level,Burnout risk category,Outcome,Categorical / Ordinal,Yes

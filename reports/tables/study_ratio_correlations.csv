@@ -1,0 +1,9 @@
+,Weekly_GenAI_Hours,Traditional_Study_Hours,Total_Study_Hours,AI_Study_Ratio,GPA_Change,Skill_Retention_Score,Perceived_AI_Dependency,Anxiety_Level_During_Exams
+Weekly_GenAI_Hours,1.0,-0.157,0.826,0.807,-0.046,-0.118,0.665,0.269
+Traditional_Study_Hours,-0.157,1.0,0.427,-0.54,0.376,0.148,-0.103,-0.041
+Total_Study_Hours,0.826,0.427,1.0,0.431,0.172,-0.024,0.551,0.223
+AI_Study_Ratio,0.807,-0.54,0.431,1.0,-0.158,-0.11,0.53,0.215
+GPA_Change,-0.046,0.376,0.172,-0.158,1.0,0.196,-0.039,-0.04
+Skill_Retention_Score,-0.118,0.148,-0.024,-0.11,0.196,1.0,-0.084,-0.042
+Perceived_AI_Dependency,0.665,-0.103,0.551,0.53,-0.039,-0.084,1.0,0.308
+Anxiety_Level_During_Exams,0.269,-0.041,0.223,0.215,-0.04,-0.042,0.308,1.0

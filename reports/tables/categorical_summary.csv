@@ -1,0 +1,8 @@
+Column,Unique_Values,Most_Common_Value,Most_Common_Count,Most_Common_Percentage
+Major_Category,5,STEM,15059,30.12
+Year_of_Study,5,Junior,11045,22.09
+Primary_Use_Case,5,Debugging/Troubleshooting,12295,24.59
+Prompt_Engineering_Skill,3,Beginner,18495,36.99
+Paid_Subscription,2,False,28846,57.69
+Institutional_Policy,3,Allowed_With_Citation,25224,50.45
+Burnout_Risk_Level,3,Medium,21144,42.29
